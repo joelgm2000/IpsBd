@@ -1,0 +1,11 @@
+D:\PG\AppSpa\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+D:\PG\AppSpa\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+D:\PG\AppSpa\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+D:\PG\AppSpa\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+D:\PG\AppSpa\Datos\bin\Debug\netstandard2.0\Datos.dll
+D:\PG\AppSpa\Datos\bin\Debug\netstandard2.0\Datos.pdb
+D:\PG\AppSpa\Datos\bin\Debug\netstandard2.0\Entity.dll
+D:\PG\AppSpa\Datos\bin\Debug\netstandard2.0\Entity.pdb
+D:\PG\AppSpa\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+D:\PG\AppSpa\Datos\obj\Debug\netstandard2.0\Datos.dll
+D:\PG\AppSpa\Datos\obj\Debug\netstandard2.0\Datos.pdb

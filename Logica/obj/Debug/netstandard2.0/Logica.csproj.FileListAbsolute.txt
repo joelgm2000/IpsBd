@@ -1,0 +1,13 @@
+D:\PG\AppSpa\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+D:\PG\AppSpa\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+D:\PG\AppSpa\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+D:\PG\AppSpa\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+D:\PG\AppSpa\Logica\bin\Debug\netstandard2.0\Logica.dll
+D:\PG\AppSpa\Logica\bin\Debug\netstandard2.0\Logica.pdb
+D:\PG\AppSpa\Logica\bin\Debug\netstandard2.0\Datos.dll
+D:\PG\AppSpa\Logica\bin\Debug\netstandard2.0\Entity.dll
+D:\PG\AppSpa\Logica\bin\Debug\netstandard2.0\Datos.pdb
+D:\PG\AppSpa\Logica\bin\Debug\netstandard2.0\Entity.pdb
+D:\PG\AppSpa\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+D:\PG\AppSpa\Logica\obj\Debug\netstandard2.0\Logica.dll
+D:\PG\AppSpa\Logica\obj\Debug\netstandard2.0\Logica.pdb

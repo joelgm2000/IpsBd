@@ -1,0 +1,56 @@
+<p>paciente-consulta works!</p>
+<div class="row">
+
+    <div class="col-6">
+
+        <input [(ngModel)]="searchText" type="text" class="form-control" placeh older="Type to filter">
+
+    </div>
+
+</div>
+
+<hr>
+
+<table class="table table-striped" *ngIf='paciente && paciente.length'>
+
+    <thead>
+
+        <tr>
+
+            <th scope="col">#</th>
+
+            <th scope="col">identificación</th>
+
+            <th scope="col">Nombre </th>
+
+            <th scope="col">valor Hospitalizacion</th>
+
+            <th scope="col">salario Trabajador</th>
+
+            <th scope="col">valor Copago</th>
+
+        </tr>
+
+    </thead>
+
+    <tbody>
+
+        <tr *ngFor="let paciente of pacientes; index as i ">
+
+            <th scope="row">{{ i + 1 }}</th>
+
+            <td>{{ paciente.identificacion }} </td>
+
+            <td>{{ persona.nombre }}</td>
+
+            <td>{{ persona.valorHospitalizacion }}</td>
+
+            <td>{{ persona.salarioTrabajador }}</td>
+
+            <td>{{ persona.valorCopago }}</td>
+
+        </tr>
+
+    </tbody>
+
+</table>

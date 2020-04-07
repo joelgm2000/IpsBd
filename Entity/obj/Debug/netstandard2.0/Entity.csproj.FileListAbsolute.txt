@@ -1,0 +1,8 @@
+D:\PG\AppSpa\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+D:\PG\AppSpa\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+D:\PG\AppSpa\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+D:\PG\AppSpa\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+D:\PG\AppSpa\Entity\bin\Debug\netstandard2.0\Entity.dll
+D:\PG\AppSpa\Entity\bin\Debug\netstandard2.0\Entity.pdb
+D:\PG\AppSpa\Entity\obj\Debug\netstandard2.0\Entity.dll
+D:\PG\AppSpa\Entity\obj\Debug\netstandard2.0\Entity.pdb
