@@ -77,8 +77,8 @@ namespace Datos
             Paciente persona = new Paciente();
             persona.Identificacion = (string)dataReader["Identificacion"];
             persona.Nombre = (string)dataReader["Nombre"];
-            persona.ValorHospital = (double)dataReader["ValorHospital"];
-            persona.SalarioTrabajador = (double)dataReader["SalarioTrabajador"];
+            persona.ValorHospital = (decimal)dataReader["ValorHospital"];
+            persona.SalarioTrabajador = (decimal)dataReader["SalarioTrabajador"];
             return persona;
         }
         public int Totalizar()

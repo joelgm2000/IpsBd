@@ -11,8 +11,8 @@ namespace spaapp.Models
     {
        public string Identificacion{get; set;}
         public string Nombre{get; set;}
-        public double ValorHospital{get; set;}
-        public double SalarioTrabajador{get; set;}
+        public decimal ValorHospital{get; set;}
+        public decimal SalarioTrabajador{get; set;}
        
     }
 
